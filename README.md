@@ -1,2 +1,2 @@
 # forloop
-xercicio Aula JAVA Fuctura 
+Exercicio Aula JAVA Fuctura 
